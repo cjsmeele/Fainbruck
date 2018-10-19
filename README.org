@@ -4,6 +4,10 @@ Fainbruck is an optimizing Brainfuck interpreter written in Haskell.
 
 Just a fun little educational hobby-project :-)
 
+Note: Build with ghc optmizations on, if possible:
+
+: cabal build --ghc-options="-fobject-code -fllvm -Odph"
+
 ** Author
 
 - [[https://github.com/cjsmeele][Chris Smeele]]
