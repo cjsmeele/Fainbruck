@@ -1,0 +1,9 @@
+#+TITLE: Fainbruck
+
+Fainbruck is an optimizing Brainfuck interpreter written in Haskell.
+
+Just a fun little educational hobby-project :-)
+
+** Author
+
+- [[https://github.com/cjsmeele][Chris Smeele]]
